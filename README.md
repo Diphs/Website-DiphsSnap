@@ -7,6 +7,7 @@ ini adalah Website pengiriman pesan dengan fitur penghancuran otomatis yang saya
 - Menggunakan CSS
 - Menggunakan HTML
 
+Terdapat :
 - Halaman awal
   ![image](https://github.com/Diphs/Website-DiphsSnap/assets/100171465/22f10aeb-9d39-4a29-9e3b-cd4df82e1140)
 
