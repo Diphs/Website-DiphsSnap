@@ -1,4 +1,4 @@
-Tentang Projek 
+Tentang Project
 ![image](https://github.com/Diphs/Website-DiphsSnap/assets/100171465/bfefffb8-fd61-4b9a-9629-dfcf02c0ddfc)
 ini adalah Website pengiriman pesan dengan fitur penghancuran otomatis yang saya kembangkan secara mandiri.
 
