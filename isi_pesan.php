@@ -24,32 +24,15 @@ require "koneksi.php";
         </div>
     </header>
 
-    <div class="container-tautan">
-        <p>Bagikan Tautan ini:</p>
-        <div class="fill-tautan">
-            <p>http://DiphsSnap/Pesan?kadnueiqy9813unlandnjkakudad</p>
-        </div>
-        <p>Pesan Rahasia</p>
+    <div class="container-konfirmasi">
+        <h2>Pesan ini untukmu :</h2>
         <div class="input-pesan">
             <textarea name="message" placeholder="Tulis Pesanmu..." required></textarea>
         </div>
-        <p>Masa berlaku: 7 Hari (2023-11-30)</p>
         <form action="">
-            <input type="submit" value="Hapus Pesan" class="btn-hapus">
-        <div class="label-pesan">
-            <p>"Menekan “Hapus Pesan” akan menghapus pesan sebelum dibaca"</p>
-        </div>
-        <input type="submit" value="Buat Pesan Rahasia Lainnya" class="btn-pesan">
+        <input type="submit" value="Balas dengan Pesan Rahasia Lainnya" class="btn-pesan">
         </form>
     </div>
 
-    <div class="container-email">
-    <form action="#">
-        <div class="email-pesan">
-            <input type="text" name="name" class="input-email" placeholder="Kirim pertanyaan atau komentar disini" required>
-        </div>
-        <input type="submit" value="Kirim" class="btn-email">
-    </form>
-    </div>
 </body>
 </html>

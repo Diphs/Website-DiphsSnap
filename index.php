@@ -48,7 +48,7 @@ require "koneksi.php";
                 </div>
                 <div class="password-pesan">
                     <label for="">Password:</label>
-                    <input type="text" name="name" class="input-password" placeholder="Masukan password untuk mengenkripsi pesan" required>
+                    <input type="text" name="name" class="input-password" placeholder="Masukan password untuk mengenkripsi pesan">
                 </div>
             </div>
             <input type="submit" value="Buat Pesan Rahasia" class="btn">
